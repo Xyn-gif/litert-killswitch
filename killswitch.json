@@ -1,5 +1,8 @@
 {
   "enabled": true,
   "min_version": "0.1.0",
+  "latest_version": "0.2.0",
+  "apk_url": "https://github.com/Xyn-gif/litert-killswitch/releases/download/v0.2.0/app-release.apk",
+  "update_notes": "Prueba del sistema de actualizaciones.",
   "message": ""
 }
